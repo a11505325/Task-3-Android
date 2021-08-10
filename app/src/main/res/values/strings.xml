@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">MQTT</string>
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">只有五个图形\n先到先得:)\n其他人只能观看</string>
+    <string name="app_name">实时互动</string>
+    <string name="dummy_content">只有五个图形\n:)先到先得\n其他人先看看</string>
 </resources>
